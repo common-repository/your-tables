@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Your Tables\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-12 12:20+0100\n"
+"PO-Revision-Date: 2016-06-12 12:46+0100\n"
+"Last-Translator: Benjamin de Jong <benjamin@zerotop.com>\n"
+"Language-Team: Zerotop Interware <your-tables@zerotop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-your-tables-menus.php:47
+#: ../includes/class-your-tables-view.php:538
+msgid "Your Tables Settings"
+msgstr "Your Tables Instellingen"
+
+#: ../includes/class-your-tables-view.php:25
+#: ../includes/class-your-tables-view.php:31
+#: ../includes/class-your-tables-view.php:72
+#: ../includes/class-your-tables-view.php:88
+#: ../includes/class-your-tables-view.php:208
+#: ../includes/class-your-tables-view.php:215
+#: ../includes/class-your-tables-view.php:246
+#: ../includes/class-your-tables-view.php:313
+msgid "Database error"
+msgstr "Database fout"
+
+#: ../includes/class-your-tables-view.php:34
+msgid "New"
+msgstr "Nieuwe"
+
+#: ../includes/class-your-tables-view.php:72
+#: ../includes/class-your-tables-view.php:313
+msgid "at field"
+msgstr "bij veld"
+
+#: ../includes/class-your-tables-view.php:101
+#: ../includes/class-your-tables-view.php:640
+msgid "en_US"
+msgstr "nl_NL"
+
+#: ../includes/class-your-tables-view.php:110
+msgid "Date error"
+msgstr "Datum fout"
+
+#: ../includes/class-your-tables-view.php:110
+msgid "This date could not be processed"
+msgstr "Deze datum kon niet worden verwerkt"
+
+#: ../includes/class-your-tables-view.php:130
+msgid "Edit"
+msgstr "Aanpassen"
+
+#: ../includes/class-your-tables-view.php:131
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../includes/class-your-tables-view.php:145
+#: ../includes/class-your-tables-view.php:508
+msgid "does not exist"
+msgstr "bestaat niet"
+
+#: ../includes/class-your-tables-view.php:293
+msgid "Auto Number"
+msgstr "Automatisch genummerd"
+
+#: ../includes/class-your-tables-view.php:311
+msgid "Select"
+msgstr "Selecteer"
+
+#: ../includes/class-your-tables-view.php:408
+msgid "Close"
+msgstr "Sluit"
+
+#: ../includes/class-your-tables-view.php:409
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../includes/class-your-tables-view.php:410
+msgid "Next"
+msgstr "Volgende"
+
+#: ../includes/class-your-tables-view.php:411
+msgid "Today"
+msgstr "Vandaag"
+
+#: ../includes/class-your-tables-view.php:412
+msgid "January"
+msgstr "Januari"
+
+#: ../includes/class-your-tables-view.php:412
+msgid "February"
+msgstr "Februari"
+
+#: ../includes/class-your-tables-view.php:412
+msgid "March"
+msgstr "Maart"
+
+#: ../includes/class-your-tables-view.php:412
+msgid "April"
+msgstr "April"
+
+#: ../includes/class-your-tables-view.php:412
+#: ../includes/class-your-tables-view.php:414
+msgid "May"
+msgstr "Mei"
+
+#: ../includes/class-your-tables-view.php:412
+msgid "June"
+msgstr "Juni"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "July"
+msgstr "Juli"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "August"
+msgstr "Augustus"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "September"
+msgstr "September"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "October"
+msgstr "Oktober"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "November"
+msgstr "November"
+
+#: ../includes/class-your-tables-view.php:413
+msgid "December"
+msgstr "December"
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Jan"
+msgstr "Jan"
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Feb"
+msgstr "Feb"
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Mar"
+msgstr "Mar"
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Apr"
+msgstr "Apr"
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Jun"
+msgstr "Jun"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Jul"
+msgstr "Jul"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Aug"
+msgstr "Aug"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Sep"
+msgstr "Sep"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Oct"
+msgstr "Okt"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Nov"
+msgstr "Nov"
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Dec"
+msgstr "Dec"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Sunday"
+msgstr "Zondag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Monday"
+msgstr "Maandag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Thuesday"
+msgstr "Dinsdag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Sun"
+msgstr "Zon"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Mon"
+msgstr "Ma"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Tue"
+msgstr "Di"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Wed"
+msgstr "Wo"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Thu"
+msgstr "Do"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Fri"
+msgstr "Vr"
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Sat"
+msgstr "Za"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Su"
+msgstr "Zo"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Mo"
+msgstr "Ma"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Tu"
+msgstr "Di"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "We"
+msgstr "Wo"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Th"
+msgstr "Do"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Fr"
+msgstr "Vr"
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Sa"
+msgstr "Za"
+
+#: ../includes/class-your-tables-view.php:419
+msgid "wk"
+msgstr "wk"
+
+#: ../includes/class-your-tables-view.php:462
+msgid "is required"
+msgstr "is verplicht"
+
+#: ../includes/class-your-tables-view.php:475
+msgid "Create"
+msgstr "Aanmaken"
+
+#: ../includes/class-your-tables-view.php:476
+msgid "Create + New"
+msgstr "Aanmaken + Nieuw"
+
+#: ../includes/class-your-tables-view.php:477
+msgid "Create + Go to list"
+msgstr "Aanmaken + Terug naar lijst"
+
+#: ../includes/class-your-tables-view.php:478
+#: ../includes/class-your-tables-view.php:483
+msgid "Cancel"
+msgstr "Stoppen"
+
+#: ../includes/class-your-tables-view.php:481
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../includes/class-your-tables-view.php:482
+msgid "Save + Go to list"
+msgstr "Opslaan + Terug naar lijst"
+
+#: ../includes/class-your-tables-view.php:486
+msgid "Saving not allowed"
+msgstr "Opslaan niet toegestaan"
+
+#: ../includes/class-your-tables-view.php:545
+msgid "Enable changes in Your Tables and in Your Tables Fields"
+msgstr "Aanpassingen in Your Tables en Your Tables Fields toestaan"
+
+#: ../includes/class-your-tables-view.php:546
+#: ../includes/class-your-tables-view.php:634
+msgid "No"
+msgstr "Nee"
+
+#: ../includes/class-your-tables-view.php:546
+msgid "Yes (not recommended)"
+msgstr "Ja (afgeraden)"
+
+#: ../includes/class-your-tables-view.php:550
+msgid "Which roles can administrate your tables"
+msgstr "Welke rollen kunnen uw tabellen beheren"
+
+#: ../includes/class-your-tables-view.php:566
+msgid "Which roles can use your tables"
+msgstr "Welke rollen kunnen uw tabellen gebruiken"
+
+#: ../includes/class-your-tables-view.php:589
+msgid "Save Changes"
+msgstr "Aanpassingen opslaan"
+
+#: ../includes/class-your-tables-view.php:598
+#: ../includes/class-your-tables-view.php:605
+msgid "Active"
+msgstr "Actief"
+
+#: ../includes/class-your-tables-view.php:599
+msgid "Delete Allowed"
+msgstr "Verwijderen toestaan"
+
+#: ../includes/class-your-tables-view.php:600
+msgid "Label for multiple items"
+msgstr "Label voor meervoud"
+
+#: ../includes/class-your-tables-view.php:601
+msgid "Label for Single Item"
+msgstr "Label voor enkelvoud"
+
+#: ../includes/class-your-tables-view.php:602
+#: ../includes/class-your-tables-view.php:621
+msgid "Table Name"
+msgstr "Naam tabel"
+
+#: ../includes/class-your-tables-view.php:603
+msgid "Order By Clause"
+msgstr "SQL Order by clausule"
+
+#: ../includes/class-your-tables-view.php:604
+#: ../includes/class-your-tables-view.php:619
+msgid "Position"
+msgstr "Volgorde ID"
+
+#: ../includes/class-your-tables-view.php:606
+msgid "Control Type"
+msgstr "Type element"
+
+#: ../includes/class-your-tables-view.php:607
+msgid "CSS Class"
+msgstr "CSS Classe"
+
+#: ../includes/class-your-tables-view.php:608
+msgid "Default Value"
+msgstr "Beginwaarde"
+
+#: ../includes/class-your-tables-view.php:609
+msgid "Display in Table"
+msgstr "Laat in lijst zien"
+
+#: ../includes/class-your-tables-view.php:610
+msgid "Display Size"
+msgstr "Grootte element"
+
+#: ../includes/class-your-tables-view.php:611
+msgid "Field Labels"
+msgstr "Veldlabel"
+
+#: ../includes/class-your-tables-view.php:612
+msgid "Field Name"
+msgstr "Veldnaam"
+
+#: ../includes/class-your-tables-view.php:613
+msgid "Field Query"
+msgstr "SQL selectie"
+
+#: ../includes/class-your-tables-view.php:614
+msgid "Field Type"
+msgstr "Veldtype"
+
+#: ../includes/class-your-tables-view.php:615
+msgid "Field Values"
+msgstr "Veldwaarden"
+
+#: ../includes/class-your-tables-view.php:616
+msgid "Format"
+msgstr "Formaat"
+
+#: ../includes/class-your-tables-view.php:617
+msgid "Label"
+msgstr "Label"
+
+#: ../includes/class-your-tables-view.php:618
+msgid "Mandatory Field"
+msgstr "Verplicht veld"
+
+#: ../includes/class-your-tables-view.php:620
+msgid "Primary Key"
+msgstr "Primaire sleutel"
+
+#: ../includes/class-your-tables-view.php:622
+msgid "Value Size"
+msgstr "Maximaal aantal tekens"
+
+#: ../includes/class-your-tables-view.php:624
+msgid "Single Line"
+msgstr "Een regel"
+
+#: ../includes/class-your-tables-view.php:625
+msgid "Text Area"
+msgstr "Tekstvlak"
+
+#: ../includes/class-your-tables-view.php:626
+msgid "Number"
+msgstr "Nummer"
+
+#: ../includes/class-your-tables-view.php:627
+#: ../includes/class-your-tables-view.php:637
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/class-your-tables-view.php:628
+msgid "Radiobox"
+msgstr "Keuzerondjes"
+
+#: ../includes/class-your-tables-view.php:629
+msgid "Checkbox"
+msgstr "Vinkje"
+
+#: ../includes/class-your-tables-view.php:630
+msgid "Dropdown"
+msgstr "Uitschuifbare lijst"
+
+#: ../includes/class-your-tables-view.php:631
+msgid "Listbox"
+msgstr "Lijst"
+
+#: ../includes/class-your-tables-view.php:632
+msgid "Autonumber"
+msgstr "Automatisch nummer"
+
+#: ../includes/class-your-tables-view.php:633
+msgid "Yes"
+msgstr "Ja"
+
+#: ../includes/class-your-tables-view.php:635
+msgid "Integer"
+msgstr "Geheel getal"
+
+#: ../includes/class-your-tables-view.php:636
+msgid "Char"
+msgstr "Karakters"
+
+#: ../includes/class-your-tables-view.php:638
+msgid "Text"
+msgstr "Tekstvlak"
+
+#: ../includes/class-your-tables-view.php:639
+msgid "Float"
+msgstr "Precisiegetal"
+
+#: ../includes/class-your-tables-model.php:96
+msgid "No fields found"
+msgstr "Geen velden gevonden"
+
+#: ../includes/class-your-tables-model.php:99
+msgid "Table not found"
+msgstr "Tabel niet gevonden"
+

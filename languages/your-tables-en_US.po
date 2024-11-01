@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Your Tables\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-12 12:19+0100\n"
+"PO-Revision-Date: 2016-06-12 12:20+0100\n"
+"Last-Translator: Benjamin de Jong <benjamin@zerotop.com>\n"
+"Language-Team: Zerotop Interware <your-tables@zerotop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-your-tables-menus.php:47
+#: ../includes/class-your-tables-view.php:538
+msgid "Your Tables Settings"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:25
+#: ../includes/class-your-tables-view.php:31
+#: ../includes/class-your-tables-view.php:72
+#: ../includes/class-your-tables-view.php:88
+#: ../includes/class-your-tables-view.php:208
+#: ../includes/class-your-tables-view.php:215
+#: ../includes/class-your-tables-view.php:246
+#: ../includes/class-your-tables-view.php:313
+msgid "Database error"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:34
+msgid "New"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:72
+#: ../includes/class-your-tables-view.php:313
+msgid "at field"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:101
+#: ../includes/class-your-tables-view.php:640
+msgid "en_US"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:110
+msgid "Date error"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:110
+msgid "This date could not be processed"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:130
+msgid "Edit"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:131
+msgid "Delete"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:145
+#: ../includes/class-your-tables-view.php:508
+msgid "does not exist"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:293
+msgid "Auto Number"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:311
+msgid "Select"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:408
+msgid "Close"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:409
+msgid "Previous"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:410
+msgid "Next"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:411
+msgid "Today"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+msgid "January"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+msgid "February"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+msgid "March"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+msgid "April"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+#: ../includes/class-your-tables-view.php:414
+msgid "May"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:412
+msgid "June"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "July"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "August"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "September"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "October"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "November"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:413
+msgid "December"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Jan"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Feb"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Mar"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Apr"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:414
+msgid "Jun"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Jul"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Aug"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Sep"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Oct"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Nov"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:415
+msgid "Dec"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Sunday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Monday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Thuesday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Friday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:416
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Sun"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Mon"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Tue"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Wed"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Thu"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Fri"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:417
+msgid "Sat"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Su"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Mo"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Tu"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "We"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Th"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Fr"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:418
+msgid "Sa"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:419
+msgid "wk"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:462
+msgid "is required"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:475
+msgid "Create"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:476
+msgid "Create + New"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:477
+msgid "Create + Go to list"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:478
+#: ../includes/class-your-tables-view.php:483
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:481
+msgid "Save"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:482
+msgid "Save + Go to list"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:486
+msgid "Saving not allowed"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:545
+msgid "Enable changes in Your Tables and in Your Tables Fields"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:546
+#: ../includes/class-your-tables-view.php:634
+msgid "No"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:546
+msgid "Yes (not recommended)"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:550
+msgid "Which roles can administrate your tables"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:566
+msgid "Which roles can use your tables"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:589
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:598
+#: ../includes/class-your-tables-view.php:605
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:599
+msgid "Delete Allowed"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:600
+msgid "Label for multiple items"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:601
+msgid "Label for Single Item"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:602
+#: ../includes/class-your-tables-view.php:621
+msgid "Table Name"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:603
+msgid "Order By Clause"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:604
+#: ../includes/class-your-tables-view.php:619
+msgid "Position"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:606
+msgid "Control Type"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:607
+msgid "CSS Class"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:608
+msgid "Default Value"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:609
+msgid "Display in Table"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:610
+msgid "Display Size"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:611
+msgid "Field Labels"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:612
+msgid "Field Name"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:613
+msgid "Field Query"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:614
+msgid "Field Type"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:615
+msgid "Field Values"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:616
+msgid "Format"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:617
+msgid "Label"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:618
+msgid "Mandatory Field"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:620
+msgid "Primary Key"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:622
+msgid "Value Size"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:624
+msgid "Single Line"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:625
+msgid "Text Area"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:626
+msgid "Number"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:627
+#: ../includes/class-your-tables-view.php:637
+msgid "Date"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:628
+msgid "Radiobox"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:629
+msgid "Checkbox"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:630
+msgid "Dropdown"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:631
+msgid "Listbox"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:632
+msgid "Autonumber"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:633
+msgid "Yes"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:635
+msgid "Integer"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:636
+msgid "Char"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:638
+msgid "Text"
+msgstr ""
+
+#: ../includes/class-your-tables-view.php:639
+msgid "Float"
+msgstr ""
+
+#: ../includes/class-your-tables-model.php:96
+msgid "No fields found"
+msgstr ""
+
+#: ../includes/class-your-tables-model.php:99
+msgid "Table not found"
+msgstr ""
+
